@@ -1,4 +1,4 @@
-A Q-learning solver applied to the gym environment Taxi-v2.
+A Q-learning solver applied to the gym environment Taxi-v2 (school project, Reinforcement Learning class, 2019).
 
 ![alt text](results/taxi-v2_q-learning_epsilon-greedy-alpha-decreasing_500.png)
 
